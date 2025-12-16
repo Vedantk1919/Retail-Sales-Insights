@@ -18,7 +18,8 @@ This project is a comprehensive Business Intelligence solution designed to analy
 - **Interactive Visuals**: Implemented slicers for filtering by Region, Time Period, and Product Category.
 
 ## 📸 Dashboard Preview
-![Dashboard Home](screenshots/dashboard_main.png)
+<img width="1131" height="644" alt="image" src="https://github.com/user-attachments/assets/ab1d381c-fbce-4311-a483-dba7a96c5bdc" />
+
 
 
 ## 🧠 Approach
